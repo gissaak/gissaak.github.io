@@ -4,6 +4,7 @@
 # app-ads.txt Admob 7/10/2025
 google.com,pub-9966962268328280,DIRECT,f08c47fec0942fa0
 google.com,pub-7412758971890594,DIRECT,f08c47fec0942fa0
+google.com, pub-2844269894995186, DIRECT, f08c47fec0942fa0
 # app-ads.txt yandex 28/11/2025
 yandex.com,110567400,DIRECT
 yango-ads.com,109868596,DIRECT
